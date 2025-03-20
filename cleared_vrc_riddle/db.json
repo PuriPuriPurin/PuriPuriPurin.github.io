@@ -1,0 +1,23 @@
+{
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": false,
+    "Categorys": [
+        {
+            "Category": "テスト",
+            "Worlds": [
+                {
+                    "ID": "wrld_02f2d79c-e390-46b5-b868-41fa774d5a8d",
+                    "Name": "1枚謎謎解き2 黒の部屋の迷宮",
+                    "RecommendedCapacity": 8,
+                    "Capacity": 16,
+                    "Description": "",
+                    "ReleaseStatus": "public",
+                    "Platform": {
+                        "PC": true,
+                        "Android": true
+                    }
+                }
+            ]
+        }
+    ]
+}
